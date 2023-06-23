@@ -12,6 +12,7 @@
 | Version | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/terrainbento.svg)](https://anaconda.org/conda-forge/terrainbento) |
 | Platforms | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/terrainbento.svg)](https://anaconda.org/conda-forge/terrainbento) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TerrainBento/terrainbento/master?filepath=notebooks%2FWelcome_to_TerrainBento.ipynb) |
+https://mybinder.org/v2/gh/al-reed/terrainbento.git/HEAD
 
 # terrainbento
 
